@@ -1,5 +1,3 @@
-# t05veebirakendus
+# t12loputoo
 
-SpringBoot abil loodud loodud näitlik temaatiline veebirakendus
-
-Võimalusel kasutada eraldi klasse teemade grupeerimiseks ning andmebaasiühendust.
+Omakoostatud tervikrakendus või selle osa. Soovitavalt lõik suvepraktikast.

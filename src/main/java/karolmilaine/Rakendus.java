@@ -43,7 +43,7 @@ public class Rakendus {
     }
 
     public static void main(String[] args) {
-        System.getProperties().put("server.port", 5555);
+        System.getProperties().put("server.port", 1234);
         SpringApplication.run(Rakendus.class, args);
     }
 }
